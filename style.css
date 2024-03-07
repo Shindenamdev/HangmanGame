@@ -149,3 +149,9 @@ button {
   background-color: khaki;
   transform: rotate(35deg);
 }
+footer{
+    color: rgb(63, 1, 1);
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 3px;
+}
